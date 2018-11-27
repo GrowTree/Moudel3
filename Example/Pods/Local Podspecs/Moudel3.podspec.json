@@ -1,0 +1,22 @@
+{
+  "name": "Moudel3",
+  "version": "0.1.0",
+  "summary": "A short description of Moudel3.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GrowTree/Moudel3",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GrowTree": "1547020236@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/GrowTree/Moudel3.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Moudel3/Classes/**/*"
+}
